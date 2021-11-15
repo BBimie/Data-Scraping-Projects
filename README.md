@@ -1,1 +1,1 @@
-# Data-Scraping-Projects
+# Web-Scraping-Projects
